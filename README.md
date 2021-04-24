@@ -20,6 +20,9 @@
     
 
     **Items in Progress/Troubleshooting 
+    1) Still having difficulty linking the saved items per hour, to local storage.
+    2) Still having issues with the color changing, to match the current hour.
+    - 4.24.21 - AS
     
 
 
